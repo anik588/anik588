@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @anik588
-- 👀 I’m interested in learning Physics
-- 🌱 I’m currently learning Affiliate marketing & C/C++
+- 👀 I’m a undergrad Physics student
+- 🥇 working as Next JS and Django Based web Developer
+- 🌱 I’m currently learning Blockchain,Flutter & C/C++
 - 📫 How to reach me facebook.com/sa.anik24
 
 <!---
