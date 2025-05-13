@@ -17,9 +17,9 @@
 
 ### ⚙️ Technologies & Tools
 
-<div style="background-color: white;">
-  <img src="https://skillicons.dev/icons?i=django,nextjs,js,react,html,css,tailwind,figma,git,github,cpp,python,threejs" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,nextjs,js,ts,react,html,css,tailwind,figma,git,github,cpp,python,flutter,threejs" />
+</p>
 
 
 
