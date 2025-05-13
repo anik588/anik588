@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Sajjad+Ahmed+Anik;Full+Stack+Developer+(Django+%2B+Next.js);Physics+Undergrad+%7C+UI%2FUX+%26+Backend+Enthusiast;Learning+Flutter,+Blockchain,+C%2FC%2B%2B+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F2FF&theme=github-light&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Sajjad+Ahmed+Anik;Full+Stack+Developer+(Django+%2B+Next.js);Physics+Undergrad+%7C+UI%2FUX+%26+Backend+Enthusiast;Learning+Flutter,+Blockchain,+C%2FC%2B%2B+%26+AI" alt="Typing SVG" />
 </p>
 
 
@@ -40,7 +40,7 @@
 
 <!-- Optional contribution graph below -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik588&theme=gruvbox-light&hide_border=true&area=true&color=00ffee&point=ffffff&line=00ffee&custom_title=My%20Activity%20Graph" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik588&theme=react-dark&hide_border=true&area=true&color=00ffee&point=ffffff&line=00ffee&custom_title=My%20Activity%20Graph" alt="GitHub Contribution Graph" />
 </p>
 
 
