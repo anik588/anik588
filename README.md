@@ -18,12 +18,9 @@
 ### ⚙️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,nextjs,js,react,html,css,tailwind,figma,git,github,cpp,python,threejs" />
+  <img src="https://skillicons.dev/icons?i=django,nextjs,js,react,html,css,tailwind,figma,git,github,cpp,python,threejs&background=ffffff" />
 </p>
 
----
-
-### 📈 GitHub Stats
 
 ---
 
