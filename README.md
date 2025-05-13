@@ -40,7 +40,7 @@
 
 <!-- Optional contribution graph below -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik588&theme=react-dark&hide_border=true&area=true&color=00ffee&point=ffffff&line=00ffee&custom_title=My%20Activity%20Graph" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anik588&theme=github-light&hide_border=true&area=true&color=00ffee&point=ffffff&line=00ffee&custom_title=My%20Activity%20Graph" alt="GitHub Contribution Graph" />
 </p>
 
 <img src="https://github-profile-trophy.vercel.app/?username=anik588&theme=radical&margin-w=15" />
