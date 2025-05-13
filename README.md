@@ -17,7 +17,7 @@
 
 ### ⚙️ Technologies & Tools
 
-<div align="center" style="background-color: #ffffff; padding: 20px; border-radius: 12px;">
+<div style="background-color: white;">
   <img src="https://skillicons.dev/icons?i=django,nextjs,js,react,html,css,tailwind,figma,git,github,cpp,python,threejs" />
 </div>
 
